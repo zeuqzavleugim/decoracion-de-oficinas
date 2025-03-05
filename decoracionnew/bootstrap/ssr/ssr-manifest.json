@@ -1,0 +1,1674 @@
+{
+  "node_modules/laravel-vite-plugin/inertia-helpers/index.js": [],
+  "resources/assets/img/colaboradores/CMV-NGO.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/CREDITO-REAL.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/EL-BUEN-BIFE.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/ESSD.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/FASION-CRYSTALS.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/GRUPO-TREBOL.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/HERBALIFE.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/HOTELES-IBIS.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/IPADE.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/LA-CHOPERIA.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/MD-SOLUCIONES.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/NUTRISA.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/Olife.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/PEGALON.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/RECKITT.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/STIHL.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/TELCEL.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/colaboradores/VINCULATE.png": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/assets/img/general/Creatividadydiseñografico.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/general/DecoraciónconVinil.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/general/Impresion-digitalygranformato.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/general/InstalacióndeVinil-Circular.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/general/Recortedevinil.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/icons/correo-electronico-mini.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/icons/iconMagic.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/icons/llamada-telefonica-mini.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/redes/facebook.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/redes/instagram.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/redes/tik-tok.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/redes/whatsapp.png": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/Creacion-de-contenido.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/Creacion-de-logos.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/Montaje-y-edicion-de-fotos.webp": [
+    "/build/assets/Montaje-y-edicion-de-fotos-DOQcWlUU.js",
+    "/build/assets/Montaje-y-edicion-de-fotos-D1Ahk-7U.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/creación-de-renders.webp": [
+    "/build/assets/creación-de-renders-CQyhLBVy.js",
+    "/build/assets/creación-de-renders-DmwlwRMw.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop1/Contenido-digital.webp": [
+    "/build/assets/Publicidad-de-contenido-cOkoE5gI.js",
+    "/build/assets/Contenidos-digitales-BLSJrLCi.webp",
+    "/build/assets/Contenido-digital-Bsbly2pT.webp",
+    "/build/assets/Creación-de-contenidos-digitales-CJ5nT16U.webp",
+    "/build/assets/Publicidad-de-contenido-DoiKptlL.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop1/Contenidos-digitales.webp": [
+    "/build/assets/Publicidad-de-contenido-cOkoE5gI.js",
+    "/build/assets/Contenidos-digitales-BLSJrLCi.webp",
+    "/build/assets/Contenido-digital-Bsbly2pT.webp",
+    "/build/assets/Creación-de-contenidos-digitales-CJ5nT16U.webp",
+    "/build/assets/Publicidad-de-contenido-DoiKptlL.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop1/Creación-de-contenidos-digitales.webp": [
+    "/build/assets/Publicidad-de-contenido-cOkoE5gI.js",
+    "/build/assets/Contenidos-digitales-BLSJrLCi.webp",
+    "/build/assets/Contenido-digital-Bsbly2pT.webp",
+    "/build/assets/Creación-de-contenidos-digitales-CJ5nT16U.webp",
+    "/build/assets/Publicidad-de-contenido-DoiKptlL.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop1/Publicidad-de-contenido.webp": [
+    "/build/assets/Publicidad-de-contenido-cOkoE5gI.js",
+    "/build/assets/Contenidos-digitales-BLSJrLCi.webp",
+    "/build/assets/Contenido-digital-Bsbly2pT.webp",
+    "/build/assets/Creación-de-contenidos-digitales-CJ5nT16U.webp",
+    "/build/assets/Publicidad-de-contenido-DoiKptlL.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop2/Creador-de-logos.webp": [
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CDoboPqA.js",
+    "/build/assets/Creador-de-logos-Bo4ZIWRf.webp",
+    "/build/assets/Diseño-de-logotipos-4gt9FFpO.webp",
+    "/build/assets/logotipos-DnYOYYUB.webp",
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CIqDBfql.png"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop2/Diseño-de-logotipos.webp": [
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CDoboPqA.js",
+    "/build/assets/Creador-de-logos-Bo4ZIWRf.webp",
+    "/build/assets/Diseño-de-logotipos-4gt9FFpO.webp",
+    "/build/assets/logotipos-DnYOYYUB.webp",
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CIqDBfql.png"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop2/MD-TECH-Imagen-de-pop-decoracion-de-negocios.png": [
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CDoboPqA.js",
+    "/build/assets/Creador-de-logos-Bo4ZIWRf.webp",
+    "/build/assets/Diseño-de-logotipos-4gt9FFpO.webp",
+    "/build/assets/logotipos-DnYOYYUB.webp",
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CIqDBfql.png"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop2/logotipos.webp": [
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CDoboPqA.js",
+    "/build/assets/Creador-de-logos-Bo4ZIWRf.webp",
+    "/build/assets/Diseño-de-logotipos-4gt9FFpO.webp",
+    "/build/assets/logotipos-DnYOYYUB.webp",
+    "/build/assets/MD-TECH-Imagen-de-pop-decoracion-de-negocios-CIqDBfql.png"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop3/Muckup-cuadros-canvas.webp": [
+    "/build/assets/Render-pecera-los-arcos2-BbrAP_nr.js",
+    "/build/assets/Muckup-cuadros-canvas-T-zyy3ht.webp",
+    "/build/assets/Muckup-tupperware-WtrA94Cx.webp",
+    "/build/assets/Render-fashion-cristal-CS-dzdbb.webp",
+    "/build/assets/Render-pecera-los-arcos2-wL_BK9yz.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop3/Muckup-tupperware.webp": [
+    "/build/assets/Render-pecera-los-arcos2-BbrAP_nr.js",
+    "/build/assets/Muckup-cuadros-canvas-T-zyy3ht.webp",
+    "/build/assets/Muckup-tupperware-WtrA94Cx.webp",
+    "/build/assets/Render-fashion-cristal-CS-dzdbb.webp",
+    "/build/assets/Render-pecera-los-arcos2-wL_BK9yz.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop3/Render-fashion-cristal.webp": [
+    "/build/assets/Render-pecera-los-arcos2-BbrAP_nr.js",
+    "/build/assets/Muckup-cuadros-canvas-T-zyy3ht.webp",
+    "/build/assets/Muckup-tupperware-WtrA94Cx.webp",
+    "/build/assets/Render-fashion-cristal-CS-dzdbb.webp",
+    "/build/assets/Render-pecera-los-arcos2-wL_BK9yz.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop3/Render-pecera-los-arcos2.webp": [
+    "/build/assets/Render-pecera-los-arcos2-BbrAP_nr.js",
+    "/build/assets/Muckup-cuadros-canvas-T-zyy3ht.webp",
+    "/build/assets/Muckup-tupperware-WtrA94Cx.webp",
+    "/build/assets/Render-fashion-cristal-CS-dzdbb.webp",
+    "/build/assets/Render-pecera-los-arcos2-wL_BK9yz.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop4/Montaje-y-edicion-de-fotografia-1.webp": [
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-B9hiZRaK.js",
+    "/build/assets/Montaje-y-edicion-de-fotografia-1-d3Nl-M1Z.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-2-BroncEb9.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-3-DSk4l6gy.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-DpD1ggNm.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop4/Montaje-y-edicion-de-fotografia-2.webp": [
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-B9hiZRaK.js",
+    "/build/assets/Montaje-y-edicion-de-fotografia-1-d3Nl-M1Z.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-2-BroncEb9.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-3-DSk4l6gy.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-DpD1ggNm.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop4/Montaje-y-edicion-de-fotografia-3.webp": [
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-B9hiZRaK.js",
+    "/build/assets/Montaje-y-edicion-de-fotografia-1-d3Nl-M1Z.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-2-BroncEb9.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-3-DSk4l6gy.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-DpD1ggNm.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/contenido/pop4/Montaje-y-edicion-de-fotografia-4.webp": [
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-B9hiZRaK.js",
+    "/build/assets/Montaje-y-edicion-de-fotografia-1-d3Nl-M1Z.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-2-BroncEb9.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-3-DSk4l6gy.webp",
+    "/build/assets/Montaje-y-edicion-de-fotografia-4-DpD1ggNm.webp"
+  ],
+  "resources/assets/img/servis/CreatividadDisenoGrafico/creación-de-logos-cdmx.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/Vinilospara-forrar-muebles1.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/microperforado.webp": [
+    "/build/assets/microperforado-CtsUVRV1.js",
+    "/build/assets/microperforado-BdAzm_si.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop1/Vinil-adhesivo.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop1/Vinilo-adhesivo.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop1/Vinilos-decorativos.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop1/Vinilos-para-pared.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop2/Microperforado-vinil.webp": [
+    "/build/assets/Vinil-microperforado-D8XQ1XNl.js",
+    "/build/assets/Microperforado-vinil-CCRLmMdC.webp",
+    "/build/assets/Vinil-microperforado-B01bOyop.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/pop2/Vinil-microperforado.webp": [
+    "/build/assets/Vinil-microperforado-D8XQ1XNl.js",
+    "/build/assets/Microperforado-vinil-CCRLmMdC.webp",
+    "/build/assets/Vinil-microperforado-B01bOyop.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/contenido/vinil-fotografico.webp": [
+    "/build/assets/vinil-fotografico-B1p6gkiJ.js",
+    "/build/assets/decoración-con-vinil-DaLjIrHF.webp",
+    "/build/assets/instalación-vinil-CbfPQLdb.webp",
+    "/build/assets/vinil-fotografico-OEOSDDuZ.webp"
+  ],
+  "resources/assets/img/servis/DecoracionVinil/vinilos-decorativos-para-pared-cdmx.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/decoración-con-vinil.webp": [
+    "/build/assets/vinil-fotografico-B1p6gkiJ.js",
+    "/build/assets/decoración-con-vinil-DaLjIrHF.webp",
+    "/build/assets/instalación-vinil-CbfPQLdb.webp",
+    "/build/assets/vinil-fotografico-OEOSDDuZ.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop1/Impresion-en-vinil-adherible.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop1/Vinil-adherible.webp": [
+    "/build/assets/Vinil-adherible-DZ7BYrKJ.js",
+    "/build/assets/Vinil-adherible-DHEA79yJ.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop1/Viniles-adheribles.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop1/Viniles-autoadheribles.webp": [
+    "/build/assets/Vinil-adhesivo-CvkzWk9s.js",
+    "/build/assets/Impresion-en-vinil-adherible-ByG1FJOc.webp",
+    "/build/assets/Viniles-adheribles-C3DX2oUQ.webp",
+    "/build/assets/Viniles-autoadheribles-DG5lL2qk.webp",
+    "/build/assets/Vinilo-adhesivo-CVvACzVE.webp",
+    "/build/assets/Vinilos-decorativos-BWTJCa_I.webp",
+    "/build/assets/Vinilos-para-pared-2ZLfyVA_.webp",
+    "/build/assets/Vinil-adhesivo-DlXvqT5g.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop2/Impresion-en-papel-fotografico.webp": [
+    "/build/assets/Impresion-fotografica-CZjg6UP3.js",
+    "/build/assets/Impresion-papel-fotografico-DixeCUNt.webp",
+    "/build/assets/Impresion-en-papel-fotografico-CJCEvmeH.webp",
+    "/build/assets/Impresion-fotografica-D_kMIrTN.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop2/Impresion-fotografica.webp": [
+    "/build/assets/Impresion-fotografica-CZjg6UP3.js",
+    "/build/assets/Impresion-papel-fotografico-DixeCUNt.webp",
+    "/build/assets/Impresion-en-papel-fotografico-CJCEvmeH.webp",
+    "/build/assets/Impresion-fotografica-D_kMIrTN.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop2/Impresion-papel-fotografico.webp": [
+    "/build/assets/Impresion-fotografica-CZjg6UP3.js",
+    "/build/assets/Impresion-papel-fotografico-DixeCUNt.webp",
+    "/build/assets/Impresion-en-papel-fotografico-CJCEvmeH.webp",
+    "/build/assets/Impresion-fotografica-D_kMIrTN.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop2/vinil-microperforado1.webp": [
+    "/build/assets/vinil-microperforado1-B7UrUcQY.js",
+    "/build/assets/vinil-microperforado1-DthEAsxR.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop3/Impresion-digital-en-tela.webp": [
+    "/build/assets/Tela-para-impresion-digital-DdYmiw6z.js",
+    "/build/assets/Impresion-digital-en-tela-Cx8a_hil.webp",
+    "/build/assets/Placard-de-tela-BzuO7dQV.webp",
+    "/build/assets/Tela-para-impresion-digital-8bSbeIJM.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop3/Placard-de-tela.webp": [
+    "/build/assets/Tela-para-impresion-digital-DdYmiw6z.js",
+    "/build/assets/Impresion-digital-en-tela-Cx8a_hil.webp",
+    "/build/assets/Placard-de-tela-BzuO7dQV.webp",
+    "/build/assets/Tela-para-impresion-digital-8bSbeIJM.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop3/Tela-para-impresion-digital.webp": [
+    "/build/assets/Tela-para-impresion-digital-DdYmiw6z.js",
+    "/build/assets/Impresion-digital-en-tela-Cx8a_hil.webp",
+    "/build/assets/Placard-de-tela-BzuO7dQV.webp",
+    "/build/assets/Tela-para-impresion-digital-8bSbeIJM.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop4/Cuadros-en-canvas.webp": [
+    "/build/assets/Pinturas-en-lienzo-pHd8PHkU.js",
+    "/build/assets/Impresión-en-canvas-DbV79Kk2.webp",
+    "/build/assets/Impresión-en-lienzo-D7FSN6_-.webp",
+    "/build/assets/Cuadros-en-canvas-o_eOkVWN.webp",
+    "/build/assets/Pinturas-en-lienzo-x-bA0B7f.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop4/Impresión-en-canvas.webp": [
+    "/build/assets/Pinturas-en-lienzo-pHd8PHkU.js",
+    "/build/assets/Impresión-en-canvas-DbV79Kk2.webp",
+    "/build/assets/Impresión-en-lienzo-D7FSN6_-.webp",
+    "/build/assets/Cuadros-en-canvas-o_eOkVWN.webp",
+    "/build/assets/Pinturas-en-lienzo-x-bA0B7f.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop4/Impresión-en-lienzo.webp": [
+    "/build/assets/Pinturas-en-lienzo-pHd8PHkU.js",
+    "/build/assets/Impresión-en-canvas-DbV79Kk2.webp",
+    "/build/assets/Impresión-en-lienzo-D7FSN6_-.webp",
+    "/build/assets/Cuadros-en-canvas-o_eOkVWN.webp",
+    "/build/assets/Pinturas-en-lienzo-x-bA0B7f.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/pop4/Pinturas-en-lienzo.webp": [
+    "/build/assets/Pinturas-en-lienzo-pHd8PHkU.js",
+    "/build/assets/Impresión-en-canvas-DbV79Kk2.webp",
+    "/build/assets/Impresión-en-lienzo-D7FSN6_-.webp",
+    "/build/assets/Cuadros-en-canvas-o_eOkVWN.webp",
+    "/build/assets/Pinturas-en-lienzo-x-bA0B7f.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/tela-canvas.webp": [
+    "/build/assets/tela-canvas-1SniH_hb.js",
+    "/build/assets/tela-canvas-C6Bnidy1.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/tela-placard.webp": [
+    "/build/assets/tela-placard-BOZ5g-SP.js",
+    "/build/assets/tela-placard-DzAXYyod.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/contenido/vinil-fotográfico.webp": [
+    "/build/assets/vinil-fotográfico-BT3fIy3f.js",
+    "/build/assets/vinil-fotográfico-zZfVfCuv.webp"
+  ],
+  "resources/assets/img/servis/ImpresionDigitalGranFormato/impresión-en-papel-fotográfico-cdmx.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/Logos-Volumétricos.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/Montaje-Caja-de-luz-para-exteriores.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/floorgraphics.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/instalación-vinil.webp": [
+    "/build/assets/vinil-fotografico-B1p6gkiJ.js",
+    "/build/assets/decoración-con-vinil-DaLjIrHF.webp",
+    "/build/assets/instalación-vinil-CbfPQLdb.webp",
+    "/build/assets/vinil-fotografico-OEOSDDuZ.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/pape-tapiz.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/pop4/Montaje-Carteles.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/contenido/tapiales.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/InstalacionVinilMateriales/instalación-de-vinilo-cdmx.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/Recorte-de-vinil-y-rotulacion.webp": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/Imprimir-etiquetas.webp": [
+    "/build/assets/Imprimir-etiquetas-C5PJrSG5.js",
+    "/build/assets/Imprimir-etiquetas-CPFCdTYv.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/Recorte-de-vinil-textil.webp": [
+    "/build/assets/Recorte-de-vinil-textil-DhU0P2Uu.js",
+    "/build/assets/Recorte-de-vinil-textil-4nVLm21x.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/Rotulacion-de-vehículos.webp": [
+    "/build/assets/Rotulacion-de-vehículos-zhhmqGNJ.js",
+    "/build/assets/Rotulacion-de-vehículos-Du0AFqQQ.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/Senaletica-exteriores.webp": [
+    "/build/assets/Senaletica-exteriores-BeNWSErm.js",
+    "/build/assets/Senaletica-exteriores-C-ztDSAx.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/Senaletica-interiores.webp": [
+    "/build/assets/Senaletica-interiores-knXxYuah.js",
+    "/build/assets/Senaletica-interiores-6Ua90Umu.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop1/Corte-de-vinil.webp": [
+    "/build/assets/Vinil-de-recorte-DU0LWZcb.js",
+    "/build/assets/Recorte-vinil-O5bpoHey.webp",
+    "/build/assets/Corte-de-vinil-DMQwnusi.webp",
+    "/build/assets/Vinil-de-recorte-D5BwANC6.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop1/Corte-vinil.webp": [
+    "/build/assets/GaleRecorteVinil-BWxv21Qq.js",
+    "/build/assets/Corte-vinil-hCOnUP4h.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop1/Recorte-vinil.webp": [
+    "/build/assets/Vinil-de-recorte-DU0LWZcb.js",
+    "/build/assets/Recorte-vinil-O5bpoHey.webp",
+    "/build/assets/Corte-de-vinil-DMQwnusi.webp",
+    "/build/assets/Vinil-de-recorte-D5BwANC6.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop1/Vinil-de-recorte.webp": [
+    "/build/assets/Vinil-de-recorte-DU0LWZcb.js",
+    "/build/assets/Recorte-vinil-O5bpoHey.webp",
+    "/build/assets/Corte-de-vinil-DMQwnusi.webp",
+    "/build/assets/Vinil-de-recorte-D5BwANC6.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop2/Corte-de-Vinil-Textil.webp": [
+    "/build/assets/Corte-vinilotextil-D13ceVz2.js",
+    "/build/assets/Corte-de-Vinil-Textil-CvRYCRS3.webp",
+    "/build/assets/Corte-textil-vinil-mCAyXvNU.webp",
+    "/build/assets/Corte-vinilotextil-qYNxUwzk.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop2/Corte-textil-vinil.webp": [
+    "/build/assets/Corte-vinilotextil-D13ceVz2.js",
+    "/build/assets/Corte-de-Vinil-Textil-CvRYCRS3.webp",
+    "/build/assets/Corte-textil-vinil-mCAyXvNU.webp",
+    "/build/assets/Corte-vinilotextil-qYNxUwzk.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop2/Corte-vinilotextil.webp": [
+    "/build/assets/Corte-vinilotextil-D13ceVz2.js",
+    "/build/assets/Corte-de-Vinil-Textil-CvRYCRS3.webp",
+    "/build/assets/Corte-textil-vinil-mCAyXvNU.webp",
+    "/build/assets/Corte-vinilotextil-qYNxUwzk.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop3/Impresion-de-etiquetas-adhesivas.webp": [
+    "/build/assets/Impresion-de-etiquetas-Bgk3Tl_s.js",
+    "/build/assets/impresion-de-stickers-Bkz4rbFt.webp",
+    "/build/assets/Impresion-de-etiquetas-adhesivas-DkIz3ljg.webp",
+    "/build/assets/Impresion-de-etiquetas-DdNXvP-V.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop3/Impresion-de-etiquetas.webp": [
+    "/build/assets/Impresion-de-etiquetas-Bgk3Tl_s.js",
+    "/build/assets/impresion-de-stickers-Bkz4rbFt.webp",
+    "/build/assets/Impresion-de-etiquetas-adhesivas-DkIz3ljg.webp",
+    "/build/assets/Impresion-de-etiquetas-DdNXvP-V.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop3/impresion-de-stickers.webp": [
+    "/build/assets/Impresion-de-etiquetas-Bgk3Tl_s.js",
+    "/build/assets/impresion-de-stickers-Bkz4rbFt.webp",
+    "/build/assets/Impresion-de-etiquetas-adhesivas-DkIz3ljg.webp",
+    "/build/assets/Impresion-de-etiquetas-DdNXvP-V.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop4/Rotular-coche.webp": [
+    "/build/assets/Rotulos-para-carros-Cl3mHd5K.js",
+    "/build/assets/Rotular-coche-BjCpHxp4.webp",
+    "/build/assets/Rotulos-para-carros-vZNtIL0s.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop4/Rotulos-para-carros.webp": [
+    "/build/assets/Rotulos-para-carros-Cl3mHd5K.js",
+    "/build/assets/Rotular-coche-BjCpHxp4.webp",
+    "/build/assets/Rotulos-para-carros-vZNtIL0s.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop5/Salida-de-emergencia-senal.webp": [
+    "/build/assets/Senalizacion-de-emergencia-BY6C8bNp.js",
+    "/build/assets/Salida-de-emergencia-senal-BfHJFdaL.webp",
+    "/build/assets/Senaletica-de-seguridad-DNRLOilX.webp",
+    "/build/assets/Senalizacion-de-emergencia-C0gxShom.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop5/Senaletica-de-seguridad.webp": [
+    "/build/assets/Senalizacion-de-emergencia-BY6C8bNp.js",
+    "/build/assets/Salida-de-emergencia-senal-BfHJFdaL.webp",
+    "/build/assets/Senaletica-de-seguridad-DNRLOilX.webp",
+    "/build/assets/Senalizacion-de-emergencia-C0gxShom.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop5/Senalizacion-de-emergencia.webp": [
+    "/build/assets/Senalizacion-de-emergencia-BY6C8bNp.js",
+    "/build/assets/Salida-de-emergencia-senal-BfHJFdaL.webp",
+    "/build/assets/Senaletica-de-seguridad-DNRLOilX.webp",
+    "/build/assets/Senalizacion-de-emergencia-C0gxShom.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop6/Senalamientos-para-negocios.webp": [
+    "/build/assets/Senaletica-oficina-ChKJ4Dvq.js",
+    "/build/assets/Senaletica-salida-de-emergencia-Dnzi3RF3.webp",
+    "/build/assets/Senalamientos-para-negocios-CEAdLDuO.webp",
+    "/build/assets/Senaletica-ruta-de-evacuacion-BQoAIBqU.webp",
+    "/build/assets/Senaletica-oficina-CfMtT3HH.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop6/Senaletica-oficina.webp": [
+    "/build/assets/Senaletica-oficina-ChKJ4Dvq.js",
+    "/build/assets/Senaletica-salida-de-emergencia-Dnzi3RF3.webp",
+    "/build/assets/Senalamientos-para-negocios-CEAdLDuO.webp",
+    "/build/assets/Senaletica-ruta-de-evacuacion-BQoAIBqU.webp",
+    "/build/assets/Senaletica-oficina-CfMtT3HH.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop6/Senaletica-ruta-de-evacuacion.webp": [
+    "/build/assets/Senaletica-oficina-ChKJ4Dvq.js",
+    "/build/assets/Senaletica-salida-de-emergencia-Dnzi3RF3.webp",
+    "/build/assets/Senalamientos-para-negocios-CEAdLDuO.webp",
+    "/build/assets/Senaletica-ruta-de-evacuacion-BQoAIBqU.webp",
+    "/build/assets/Senaletica-oficina-CfMtT3HH.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/pop6/Senaletica-salida-de-emergencia.webp": [
+    "/build/assets/Senaletica-oficina-ChKJ4Dvq.js",
+    "/build/assets/Senaletica-salida-de-emergencia-Dnzi3RF3.webp",
+    "/build/assets/Senalamientos-para-negocios-CEAdLDuO.webp",
+    "/build/assets/Senaletica-ruta-de-evacuacion-BQoAIBqU.webp",
+    "/build/assets/Senaletica-oficina-CfMtT3HH.webp"
+  ],
+  "resources/assets/img/servis/RecorteVinil/contenido/rotulación.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/cortadora-de-vinil-cdmx.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/impresion-alta-resolucion-sustratos-especiales.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/multiples-aplicaciones-baneers-y-cenefas.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/multiples-aplicaciones-vinil-decorativo-columnas.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/servicio-de-alta-calidad-diseno-grafico.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/assets/img/servis/servicio-de-alta-callidad-montaje-e-implementacion-cmv.webp": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/js/Components/Buton0.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Components/Buton1.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Components/ServisesFlot.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Components/Tarjeta1.jsx": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/js/Components/Tarjeta2.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Components/WhatsButon.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Imags/Banners.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Imags/Colaboradores.jsx": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/js/Imags/GaleriaCreacionContenido.jsx": [
+    "/build/assets/GaleCreacionContenido-fcsxtBJk.js"
+  ],
+  "resources/js/Imags/GaleriaCreacionRenders.jsx": [
+    "/build/assets/GaleCreacionRenders-B7PuZls5.js"
+  ],
+  "resources/js/Imags/GaleriaDisenoLogos.jsx": [
+    "/build/assets/GaleDisenoLogos-CR6ri1j4.js"
+  ],
+  "resources/js/Imags/GaleriaImpresionEtiquetas.jsx": [
+    "/build/assets/GaleImpresionEtiquetas-tOojR0wH.js"
+  ],
+  "resources/js/Imags/GaleriaMicroperforado.jsx": [
+    "/build/assets/GaleMicroperforado-D-7N155B.js"
+  ],
+  "resources/js/Imags/GaleriaMontajeEdicion.jsx": [
+    "/build/assets/GaleMontajeEdicionFotos-Ce9zAYct.js"
+  ],
+  "resources/js/Imags/GaleriaPapelFotografico.jsx": [
+    "/build/assets/GalePapelFotografico-D3GpOy4h.js"
+  ],
+  "resources/js/Imags/GaleriaRecorteVinilTextil.jsx": [
+    "/build/assets/GaleRecorteVinilTextil-BopZG8nK.js"
+  ],
+  "resources/js/Imags/GaleriaRotulacionVehiculos.jsx": [
+    "/build/assets/GaleRotulacionVehiculos-jwcKxBTi.js"
+  ],
+  "resources/js/Imags/GaleriaRotulacionVinil.jsx": [
+    "/build/assets/GaleRecorteVinil-BWxv21Qq.js",
+    "/build/assets/Corte-vinil-hCOnUP4h.webp"
+  ],
+  "resources/js/Imags/GaleriaSenaleticaExterior.jsx": [
+    "/build/assets/GaleSenaleticaExterior-DbL2GZag.js"
+  ],
+  "resources/js/Imags/GaleriaTelaCanvas.jsx": [
+    "/build/assets/GaleTelaCanvas-CPGViBoU.js"
+  ],
+  "resources/js/Imags/GaleriaTelaPlacard.jsx": [
+    "/build/assets/GaleTelaPlacard-DeSnvXUL.js"
+  ],
+  "resources/js/Imags/GaleriaVinilAdhesivo.jsx": [
+    "/build/assets/GaleVinilAdhesivo-2Hne8uM4.js"
+  ],
+  "resources/js/Imags/GaleriasSenaleticaInterir.jsx": [
+    "/build/assets/GaleSenaleticaInterior-BcoESSrb.js"
+  ],
+  "resources/js/Imags/Icons.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Imags/Pops.jsx": [
+    "/build/assets/Pops-BCzdL_16.js",
+    "/build/assets/creación-de-logos-cdmx-CVTspWEx.webp",
+    "/build/assets/impresión-en-papel-fotográfico-cdmx-lmvvqa_L.webp",
+    "/build/assets/instalación-de-vinilo-cdmx-DMLOpAJ7.webp",
+    "/build/assets/Recorte-de-vinil-y-rotulacion-BNWzhYUR.webp",
+    "/build/assets/vinilos-decorativos-para-pared-cdmx-Dx9yAR6O.webp",
+    "/build/assets/Montaje-Carteles-D5pz3URE.webp"
+  ],
+  "resources/js/Imags/RedesSoci.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Imags/Servises.jsx": [
+    "/build/assets/Servises-CHsXVNlY.js",
+    "/build/assets/servicio-de-alta-calidad-diseno-grafico-CcFdQSzJ.webp",
+    "/build/assets/impresion-alta-resolucion-sustratos-especiales-DRbHUsEb.webp",
+    "/build/assets/servicio-de-alta-callidad-montaje-e-implementacion-cmv-DAAkIZ28.webp",
+    "/build/assets/cortadora-de-vinil-cdmx-DkBBkblb.webp",
+    "/build/assets/multiples-aplicaciones-vinil-decorativo-columnas-COSPTziu.webp",
+    "/build/assets/multiples-aplicaciones-baneers-y-cenefas-L1rJ0VAo.webp",
+    "/build/assets/Creacion-de-contenido-CxVUp4Dr.webp",
+    "/build/assets/Creacion-de-logos-jEwJ6rQW.webp",
+    "/build/assets/pape-tapiz-C-qHBWFR.webp",
+    "/build/assets/floorgraphics-CKovo2te.webp",
+    "/build/assets/tapiales-BpxaJ4Hk.webp",
+    "/build/assets/Logos-Volumétricos-2z_jNSh5.webp",
+    "/build/assets/Montaje-Caja-de-luz-para-exteriores-DJWtqwYV.webp",
+    "/build/assets/rotulación-BnroE6af.webp",
+    "/build/assets/Vinilospara-forrar-muebles1-BsF9silA.webp"
+  ],
+  "resources/js/Imags/UsoGeneral.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Layouts/Footer.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Layouts/Form.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Layouts/Nav.jsx": [
+    "/build/assets/UsoGeneral-Ddt5WNia.js",
+    "/build/assets/iconMagic-CiU6lO98.png",
+    "/build/assets/correo-electronico-mini-DdV81SIX.png",
+    "/build/assets/llamada-telefonica-mini-CvCrJ-uh.png",
+    "/build/assets/whatsapp-BtCgz4Tn.png",
+    "/build/assets/facebook-BQJt4noz.png",
+    "/build/assets/instagram-Btk2Dwh6.png",
+    "/build/assets/tik-tok-C9M6Smct.png",
+    "/build/assets/InstalacióndeVinil-Circular-D9r3JVkr.png",
+    "/build/assets/Creatividadydiseñografico-DtshdnhO.png",
+    "/build/assets/Impresion-digitalygranformato-QA1mk64Y.png",
+    "/build/assets/Recortedevinil-Csu-svRz.png",
+    "/build/assets/DecoraciónconVinil-BudC_NZF.png"
+  ],
+  "resources/js/Pages/CreatividadDisenoGrafico.jsx": [
+    "/build/assets/CreatividadDisenoGrafico-B9OgJzuM.js"
+  ],
+  "resources/js/Pages/DecoracionVinil.jsx": [
+    "/build/assets/DecoracionVinil-DPlNtV5P.js"
+  ],
+  "resources/js/Pages/Home.jsx": [
+    "/build/assets/Home-DIaUENsS.js",
+    "/build/assets/VINCULATE-Dvi0ALpw.png",
+    "/build/assets/TELCEL-B0DUxjIA.png",
+    "/build/assets/STIHL-Cy131QC7.png",
+    "/build/assets/RECKITT-D0u3rYcx.png",
+    "/build/assets/PEGALON-C53Mc6DX.png",
+    "/build/assets/Olife-CoEaDp2c.png",
+    "/build/assets/NUTRISA-6VgyxsbA.png",
+    "/build/assets/MD-SOLUCIONES-i5He3h1s.png",
+    "/build/assets/LA-CHOPERIA-xGJZtX3_.png",
+    "/build/assets/IPADE-DC3imeZd.png",
+    "/build/assets/HOTELES-IBIS-CsxPrHSo.png",
+    "/build/assets/HERBALIFE-i0itXbec.png",
+    "/build/assets/GRUPO-TREBOL-DkNFpVj-.png",
+    "/build/assets/FASION-CRYSTALS-ShrQGE45.png",
+    "/build/assets/ESSD-3h9gPKFV.png",
+    "/build/assets/EL-BUEN-BIFE-F0b3EI3I.png",
+    "/build/assets/CREDITO-REAL-F2vxBCY3.png",
+    "/build/assets/CMV-NGO-DLHIsHuF.png"
+  ],
+  "resources/js/Pages/ImpresionGranFormato.jsx": [
+    "/build/assets/ImpresionGranFormato-BbUPaJGM.js"
+  ],
+  "resources/js/Pages/InstalacionVinilMaterial.jsx": [
+    "/build/assets/InstalacionVinilMaterial-BabZZVTQ.js"
+  ],
+  "resources/js/Pages/RecorteVinil.jsx": [
+    "/build/assets/RecorteVinil-CwgfWldQ.js"
+  ],
+  "resources/js/Pages/galerias/GaleCreacionContenido.jsx": [
+    "/build/assets/GaleCreacionContenido-fcsxtBJk.js"
+  ],
+  "resources/js/Pages/galerias/GaleCreacionRenders.jsx": [
+    "/build/assets/GaleCreacionRenders-B7PuZls5.js"
+  ],
+  "resources/js/Pages/galerias/GaleDisenoLogos.jsx": [
+    "/build/assets/GaleDisenoLogos-CR6ri1j4.js"
+  ],
+  "resources/js/Pages/galerias/GaleImpresionEtiquetas.jsx": [
+    "/build/assets/GaleImpresionEtiquetas-tOojR0wH.js"
+  ],
+  "resources/js/Pages/galerias/GaleMicroperforado.jsx": [
+    "/build/assets/GaleMicroperforado-D-7N155B.js"
+  ],
+  "resources/js/Pages/galerias/GaleMontajeEdicionFotos.jsx": [
+    "/build/assets/GaleMontajeEdicionFotos-Ce9zAYct.js"
+  ],
+  "resources/js/Pages/galerias/GalePapelFotografico.jsx": [
+    "/build/assets/GalePapelFotografico-D3GpOy4h.js"
+  ],
+  "resources/js/Pages/galerias/GaleRecorteVinil.jsx": [
+    "/build/assets/GaleRecorteVinil-BWxv21Qq.js",
+    "/build/assets/Corte-vinil-hCOnUP4h.webp"
+  ],
+  "resources/js/Pages/galerias/GaleRecorteVinilTextil.jsx": [
+    "/build/assets/GaleRecorteVinilTextil-BopZG8nK.js"
+  ],
+  "resources/js/Pages/galerias/GaleRotulacionVehiculos.jsx": [
+    "/build/assets/GaleRotulacionVehiculos-jwcKxBTi.js"
+  ],
+  "resources/js/Pages/galerias/GaleSenaleticaExterior.jsx": [
+    "/build/assets/GaleSenaleticaExterior-DbL2GZag.js"
+  ],
+  "resources/js/Pages/galerias/GaleSenaleticaInterior.jsx": [
+    "/build/assets/GaleSenaleticaInterior-BcoESSrb.js"
+  ],
+  "resources/js/Pages/galerias/GaleTelaCanvas.jsx": [
+    "/build/assets/GaleTelaCanvas-CPGViBoU.js"
+  ],
+  "resources/js/Pages/galerias/GaleTelaPlacard.jsx": [
+    "/build/assets/GaleTelaPlacard-DeSnvXUL.js"
+  ],
+  "resources/js/Pages/galerias/GaleVinilAdhesivo.jsx": [
+    "/build/assets/GaleVinilAdhesivo-2Hne8uM4.js"
+  ],
+  "resources/js/ssr.jsx": [],
+  "vendor/tightenco/ziggy/dist/index.js": []
+}
